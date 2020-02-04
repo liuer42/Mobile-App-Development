@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mobile Lab 01/1.0.0": {
+        "runtime": {
+          "Mobile Lab 01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mobile Lab 01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

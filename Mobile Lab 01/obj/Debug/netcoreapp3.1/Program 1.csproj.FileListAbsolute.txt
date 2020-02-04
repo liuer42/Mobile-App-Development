@@ -1,0 +1,22 @@
+C:\Dev\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.exe
+C:\Dev\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.deps.json
+C:\Dev\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.runtimeconfig.json
+C:\Dev\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.runtimeconfig.dev.json
+C:\Dev\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.dll
+C:\Dev\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.pdb
+C:\Dev\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.csprojAssemblyReference.cache
+C:\Dev\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.AssemblyInfoInputs.cache
+C:\Dev\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.AssemblyInfo.cs
+C:\Dev\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.dll
+C:\Dev\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.pdb
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.exe
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.deps.json
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.runtimeconfig.json
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.runtimeconfig.dev.json
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.dll
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\bin\Debug\netcoreapp3.1\Program 1.pdb
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.csprojAssemblyReference.cache
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.AssemblyInfoInputs.cache
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.AssemblyInfo.cs
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.dll
+C:\Users\Eric\Documents\Mobile App Development\MobileApp\WCTC\Mobile Lab 01\obj\Debug\netcoreapp3.1\Program 1.pdb
