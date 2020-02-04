@@ -1,0 +1,11 @@
+C:\Dev\WCTC\Program 2\bin\Debug\netcoreapp3.1\Program 2.exe
+C:\Dev\WCTC\Program 2\bin\Debug\netcoreapp3.1\Program 2.deps.json
+C:\Dev\WCTC\Program 2\bin\Debug\netcoreapp3.1\Program 2.runtimeconfig.json
+C:\Dev\WCTC\Program 2\bin\Debug\netcoreapp3.1\Program 2.runtimeconfig.dev.json
+C:\Dev\WCTC\Program 2\bin\Debug\netcoreapp3.1\Program 2.dll
+C:\Dev\WCTC\Program 2\bin\Debug\netcoreapp3.1\Program 2.pdb
+C:\Dev\WCTC\Program 2\obj\Debug\netcoreapp3.1\Program 2.csprojAssemblyReference.cache
+C:\Dev\WCTC\Program 2\obj\Debug\netcoreapp3.1\Program 2.AssemblyInfoInputs.cache
+C:\Dev\WCTC\Program 2\obj\Debug\netcoreapp3.1\Program 2.AssemblyInfo.cs
+C:\Dev\WCTC\Program 2\obj\Debug\netcoreapp3.1\Program 2.dll
+C:\Dev\WCTC\Program 2\obj\Debug\netcoreapp3.1\Program 2.pdb
